@@ -1,0 +1,32 @@
+.heading {
+  width: 100%;
+  background-color: orange;
+  color: 9b88b4;
+}
+.div.body {
+  background-color: orange;
+}
+.container {
+  background-color: black;
+}
+.button {
+  background-color: black;
+  color: white;
+}
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-color: orange;
+}
+
+.size-label {
+  display: inline-block;
+  padding: 2px;
+}
+
+.intro-components {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
